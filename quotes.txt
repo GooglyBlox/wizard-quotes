@@ -422,7 +422,6 @@ Conjurers will see your mirror image and swear they've witnessed true doppelgang
 Apprentices will scribe one magic circle and believe they've bound a demon.
 Minotaurs will see you raise a wall of thorns and taunt "he can't build his own fence".
 Apprentices will mix two potions and claim they've mastered alchemical fusion.
-Druids will grow a mushroom and believe they've healed the forest.
 Apprentices will mimic a bird call and think they've mastered the language of beasts.
 Seers will glimpse one possible future and claim they've seen all that will come to pass.
 Trolls will see you summon a gust of wind and jest "he can't even fan himself".
