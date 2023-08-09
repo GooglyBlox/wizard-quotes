@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="300" height="300" src="https://github.com/GooglyBlox/wizard-quotes/blob/main/wizard-logo.png?raw=true">
+</p>
+
 # Wizard Quotes API
 Welcome to the Wizard Quotes API! This is a simple and free JSON API for accessing a curated list of humorous and whimsical wizard-related quotes. Perfect for any fantasy enthusiast, D&D player, or aspiring sorcerer!
 
