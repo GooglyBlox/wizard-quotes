@@ -490,3 +490,13 @@ A squire will polish a knight's shield and think himself a warrior.
 Alchemists will mix salt with water and proclaim it a potion of wisdom.
 Enchant a blade with frost, and trolls will scoff, "He can't find a shard of ice."
 Teach a novice a healing spell, and they'll consider themselves High Priests.
+A goblin stealing a shiny bauble thinks itself a treasure hunter.
+Rangers will track a squirrel and declare themselves beastmasters.
+Fairies will sprinkle dust and call it a rain of starlight.
+A witch will brew a tea and believe it to be a deadly poison.
+Conjurers will summon a breeze and assume it's a hurricane's force.
+Halflings will see you create an illusion and taunt, "He's too dull to paint."
+A novice thief will pick a lock and call himself a master of shadows.
+Elves will hear you speak their tongue and sneer, "He knows not our wisdom."
+Cast a simple healing spell, and Templars will think you're touched by the divine.
+A young vampire will taste animal blood and think it's the blood of royalty.
