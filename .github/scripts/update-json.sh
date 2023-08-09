@@ -10,26 +10,18 @@ JSON_FILE="images/wizards/images.json"
 echo "Current directory:"
 pwd
 
-# Print existing content of JSON file for debugging
-echo "Existing content of $JSON_FILE:"
-cat "$JSON_FILE"
+# Initialize an empty JSON content
+JSON_CONTENT='{"images":[]}'
 
-# Get a list of all new images added (considering only the images folder)
-NEW_IMAGES=$(git diff --name-only HEAD~1..HEAD images/wizards | grep -E '\.(jpg|jpeg|png|gif)$')
+# Get a list of all images in the images/wizards directory
+IMAGES=$(find images/wizards -type f -regex ".*\.\(jpg\|jpeg\|png\|gif\)")
 
-# Print the new images detected
-echo "New images detected:"
-echo "$NEW_IMAGES"
+# Print the images detected
+echo "Images detected:"
+echo "$IMAGES"
 
-# Read the existing JSON into a variable
-if [ -f "$JSON_FILE" ]; then
-  JSON_CONTENT=$(cat "$JSON_FILE")
-else
-  JSON_CONTENT='{"images":[]}'
-fi
-
-# Iterate over new images and add them to the JSON
-for IMAGE in $NEW_IMAGES; do
+# Iterate over images and add them to the JSON
+for IMAGE in $IMAGES; do
   # Extracting just the filename from the path
   IMAGE_NAME=$(basename $IMAGE)
   IMAGE_URL="$BASE_URL/$IMAGE_NAME"
@@ -47,5 +39,5 @@ echo "$JSON_CONTENT" > "$JSON_FILE"
 git config user.name "GitHub Action"
 git config user.email "action@github.com"
 git add "$JSON_FILE"
-git commit -m "Update images.json with new images"
+git commit -m "Update images.json with all images"
 git push
