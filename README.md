@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="https://github.com/GooglyBlox/wizard-quotes/blob/main/wizard-logo.png?raw=true">
+  <img width="300" height="300" src="https://github.com/GooglyBlox/wizard-quotes/blob/main/images/logo/wizard-logo.png?raw=true">
 </p>
 
 # Wizard Quotes API
