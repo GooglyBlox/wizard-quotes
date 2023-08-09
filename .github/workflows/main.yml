@@ -11,6 +11,10 @@ jobs:
       uses: actions/checkout@v2
     - name: Install jq
       run: sudo apt-get install jq
+    - name: Configure Git
+      run: |
+        git config --global user.email "actions@github.com"
+        git config --global user.name "GitHub Actions"
     - name: Update quotes.json with new quotes from quotes.txt
       run: |
         # Get the current number of lines in quotes.txt
@@ -31,9 +35,10 @@ jobs:
         # Apply the jq command to quotes.json
         jq "$jq_command" quotes.json > quotes_temp.json
         mv quotes_temp.json quotes.json
-        # Commit and push the changes
-        git config --global user.email "actions@github.com"
-        git config --global user.name "GitHub Actions"
+        # Commit the changes
         git add quotes.json
         git commit -m "Update quotes.json with new quotes"
-        git push
+    - name: Push changes
+      env:
+        REPO_ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+      run: git push https://${REPO_ACCESS_TOKEN}@github.com/GooglyBlox/wizard-quotes.git
