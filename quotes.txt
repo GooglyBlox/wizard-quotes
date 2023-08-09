@@ -430,3 +430,53 @@ Diviners will read the stars once and proclaim they've discovered the map of des
 Gorgons will see you freeze a stream and quip "he can't even handle a bit of cold".
 Apprentices will hear a whisper in the wind and claim they've spoken to the elements.
 Druids will grow a flower and believe they've restored balance to nature.
+Druids will craft a leafy brew and call it a potion of eternal spring.
+Sorcerers will glimpse a dragon's shadow and declare a new era of chaos.
+An apprentice will trap a mouse and brag of capturing a mythical beast.
+Barbarians will witness a dance of fireflies and swear they've seen the fairy's waltz.
+Wizards will quarrel over the naming of a star, oblivious to the cosmos beyond.
+Gnomes will spy you constructing a golem and chide, "He can't even hammer a nail."
+Alchemists will brew a weak tea and declare it an elixir of profound wisdom.
+Apprentices will mutter a few arcane words and think themselves masters of ancient languages.
+Elves will watch you converse with a bear and scoff, "He can't even sing to the birds."
+Necromancers will raise a single skeleton and boast of commanding an undead army.
+Bards will play a simple melody and claim to have moved the very stones to tears.
+Paladins will detect a hint of shadow magic and condemn you as an agent of darkness.
+Warlocks will see a rainbow and warn of an imminent cosmic alignment.
+Dwarves will watch you forge a ring and dismiss, "He can't even melt down a proper axe."
+Apprentices will fumble a levitation spell and insist they were practicing cloud walking.
+Sages will read a dusty scroll and believe they've unlocked the secrets of the universe.
+Assassins will hear you speak of honor and laugh, "He wouldn't know a blade's edge from its hilt."
+Monks will witness a flicker of your ki energy and proclaim it a mere trick of the light.
+Rangers will notice you tracking an animal and sneer, "He couldn't find his way out of a thicket."
+Wizards will lose a common cat and declare it a shapeshifted enchanter.
+Warlords will witness a peaceful negotiation and decry, "He hasn't the stomach for battle."
+Mystics will confuse a mirage for a vision and predict doom from a drop of water.
+Adventurers will stumble upon a ruin and announce the discovery of a lost civilization.
+Trolls will witness your charm spell and growl, "He can't even win a friend without magic."
+Apprentices will touch a crystal ball and profess to see the world's end.
+Sirens will hear a sailor's song and proclaim, "He can't even carry a tune across the waves."
+Giants will observe your stonecrafting and bellow, "He can't even lift a proper boulder."
+Knights will see you heal a wound and declare it a mere trick of the hand.
+Druids will plant a sapling and envision themselves as creators of forests.
+Shamans will feel a breeze and speak prophecies of a coming tempest.
+Sorceresses will enchant a frog and believe themselves queens of transformation.
+Thieves will pick a simple lock and consider themselves masters of all dungeons.
+Fairies will watch you light a candle and scorn, "He can't even spark a proper glow."
+Merchants will trade a single gem and regard themselves as masters of the market.
+Necromancers will make a flower wilt and claim they have caused a season's end.
+Wizards will mistake a raven's caw for a portentous sign and prepare for great events.
+Dwarves will carve a trinket and imagine themselves sculptors of mountains.
+Seers will dream a common nightmare and believe they've glimpsed the abyss.
+Apprentices will enchant a quill and presume themselves authors of destiny.
+Priests will witness a moment of luck and call it divine intervention.
+Witches will hear an owl hoot and assert, "I've summoned the spirits of the night."
+Barbarians will watch a waterfall and declare, "He doesn't know the first thing about rivers."
+Alchemists will observe a snowflake and pronounce it an omen from the ice goddess.
+Sages will study a common stone and say they've found the philosopher's rock.
+Elves will witness you craft a bow and lament, "He can't even string a proper melody."
+Warriors will see you sharpen a blade and taunt, "He wouldn't know a battle's fury."
+Necromancers will summon a chill wind and deem themselves lords of winter.
+Apprentices will read a horoscope and think themselves astrologers of the stars.
+Ogres will watch you bake bread and grumble, "He can't even roast a proper feast."
+Priests will feel a moment's grace and call themselves mediators between realms.
