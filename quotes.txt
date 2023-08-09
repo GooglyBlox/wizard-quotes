@@ -480,3 +480,13 @@ Necromancers will summon a chill wind and deem themselves lords of winter.
 Apprentices will read a horoscope and think themselves astrologers of the stars.
 Ogres will watch you bake bread and grumble, "He can't even roast a proper feast."
 Priests will feel a moment's grace and call themselves mediators between realms.
+Druids will summon a vine and consider themselves masters of the forest.
+Necromancers will animate a rat and believe they've called forth a demon.
+Bards will strum one chord and envision themselves as the greatest minstrel in the land.
+Apprentices will recite a charm spell and boast of being eloquent diplomats.
+Sorcerers will create a spark and declare it a lightning storm.
+Gnomes will witness you levitate and mock, "He's too weak to climb."
+A squire will polish a knight's shield and think himself a warrior.
+Alchemists will mix salt with water and proclaim it a potion of wisdom.
+Enchant a blade with frost, and trolls will scoff, "He can't find a shard of ice."
+Teach a novice a healing spell, and they'll consider themselves High Priests.
