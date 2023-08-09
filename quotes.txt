@@ -500,3 +500,33 @@ A novice thief will pick a lock and call himself a master of shadows.
 Elves will hear you speak their tongue and sneer, "He knows not our wisdom."
 Cast a simple healing spell, and Templars will think you're touched by the divine.
 A young vampire will taste animal blood and think it's the blood of royalty.
+Dwarves will see you craft with stone and argue, "He's never touched a mountain."
+Artisans will sketch a tree and dream they're legendary painters.
+Casters will recite incantations and mistake them for ancient runes.
+Warriors will swing a wooden sword and think themselves invincible.
+Novices will light a candle with magic and boast they've captured the sun.
+Shamans will hear the wind and believe they've spoken to ancient spirits.
+Fae will dance in a circle and think they've changed the seasons.
+Sirens will hum a tune and imagine it's a song that can sink ships.
+Wizards will read a page of lore and call themselves scholars of the arcane.
+Monks will meditate for an hour and consider themselves enlightened.
+Nymphs will see you swim and laugh, "He can't breathe underwater like us."
+Healers will soothe a scratch and think it's a miraculous recovery.
+Ogres will see you with a staff and jeer, "He can't lift a club."
+Sages will ponder a riddle and call it a universal truth.
+Necromancers will raise a spider and consider it a harbinger of doom.
+Druids will grow a sprout and assume they've revived the forest.
+Sorcerers will flicker a light and consider it mastery of the ethereal.
+Alchemists will turn lead into bronze and think they've discovered true alchemy.
+Gargoyles will see you sculpt and say, "He's never carved stone."
+Priests will utter a prayer and consider themselves prophets.
+Paladins will save a kitten and believe they've vanquished evil.
+A mere touch of the ethereal has warlocks claiming communion with the void.
+Novices will brew a common elixir and call it the Elixir of Life.
+Apprentices will craft a paper talisman and declare it an ancient artifact.
+Mystics will have a common dream and consider it a divine prophecy.
+Warlords will win a skirmish and think they've conquered a kingdom.
+Seers will interpret a cloud and believe it's a portent of destiny.
+Summoners will call forth a frog and believe it's a guardian spirit.
+A minstrel will write a limerick and think it a poem for the ages.
+Knights will hold a noble's banner and believe they carry the weight of honor.
