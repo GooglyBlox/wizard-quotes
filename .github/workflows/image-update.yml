@@ -1,0 +1,24 @@
+name: Update Images JSON
+
+on:
+  push:
+    paths:
+      - 'images/wizards/**.png'
+      - 'images/wizards/**.jpg'
+      - 'images/wizards/**.jpeg'
+      - 'images/wizards/**.gif'
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install jq
+      run: sudo apt-get install jq
+
+    - name: Update images.json
+      run: |
+        chmod +x .github/scripts/update-json.sh
+        ./.github/scripts/update-json.sh
