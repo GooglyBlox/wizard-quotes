@@ -3,11 +3,11 @@
 # Get the base URL for the images
 BASE_URL="https://raw.githubusercontent.com/GooglyBlox/wizard-quotes/main/images/wizards"
 
-# The JSON file to update
-JSON_FILE="images.json"
+# The JSON file to update (now pointing to the correct directory)
+JSON_FILE="images/wizards/images.json"
 
-# Get a list of all new images added
-NEW_IMAGES=$(git diff --name-only HEAD~1..HEAD images/wizards | grep -E '\.(jpg|jpeg|png|gif)$')
+# Get a list of all new images added (removing the directory prefix from the diff)
+NEW_IMAGES=$(git diff --name-only HEAD~1..HEAD images/wizards | grep -E '\.(jpg|jpeg|png|gif)$' | sed -e 's/^images\/wizards\///')
 
 # Read the existing JSON into a variable
 if [ -f "$JSON_FILE" ]; then
