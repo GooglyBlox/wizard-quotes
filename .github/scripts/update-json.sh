@@ -39,5 +39,5 @@ echo "$JSON_CONTENT" > "$JSON_FILE"
 git config user.name "GitHub Action"
 git config user.email "action@github.com"
 git add "$JSON_FILE"
-git commit -m "Update images.json with all images"
+git commit -m "Update images.json with new images"
 git push
