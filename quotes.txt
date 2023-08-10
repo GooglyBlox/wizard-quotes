@@ -580,3 +580,4 @@ Necromancers will hear you speak to the dead and declare, "He doesn't truly unde
 Bards will write a simple rhyme and think they've penned an epic for the ages.
 Alchemists will turn lead into copper and declare themselves equal to the gold-makers of legend.
 Shamans will hear a thunderclap and believe they've sung the song of the storm.
+Liches will see you cast clone and say, "He cannot afford a phylactery".
