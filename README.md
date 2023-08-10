@@ -26,4 +26,4 @@ Visit the website [here](https://wizard-quotes.googlyblox.repl.co).
 
 ## Contributing
 Contributions are very welcome! If you have a wizard quote or image you'd like to add, feel free to make a pull request.  
-*This does also include AI-generated wizard quotes/images - so if you have some time to kill with ChatGPT or some spare DALL-E/Midjourney tokens, then please consider contributing!*
+<sup><sub>*This does also include AI-generated wizard quotes/images - so if you have some time to kill with ChatGPT or some spare DALL-E/Midjourney tokens, then please consider contributing!*</sub></sup>
