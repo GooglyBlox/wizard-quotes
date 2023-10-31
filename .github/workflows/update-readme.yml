@@ -2,7 +2,8 @@ name: Update README with unique combinations
 
 on:
   push:
-
+    paths-ignore:
+      - 'quotes.txt'
   workflow_dispatch:
 
 
