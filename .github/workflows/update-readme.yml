@@ -5,9 +5,6 @@ on:
     workflows: ["main.yml"]
     types:
       - completed
-  push:
-    paths-ignore:
-      - '.github/**'
   workflow_dispatch:
 
 jobs:
