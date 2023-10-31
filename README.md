@@ -20,7 +20,7 @@ fetch('https://raw.githubusercontent.com/GooglyBlox/wizard-quotes/main/quotes.js
 ```
 
 # Wizard Quotes Meme Maker
-The Wizard Quotes Meme Maker is a web application that utilizes the Wizard Quotes API to generate top text/bottom text style wizard memes. Users can simply refresh the page to generate a new meme each time, with ~18,662 (as of writing) unique possibilities.  
+The Wizard Quotes Meme Maker is a web application that utilizes the Wizard Quotes API to generate top text/bottom text style wizard memes. Users can simply refresh the page to generate a new meme each time, with ~18,786 (as of writing) unique possibilities.  
 
 Visit the website [here](https://wizard-quotes.googlyblox.repl.co).
 
