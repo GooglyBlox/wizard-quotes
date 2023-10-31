@@ -581,3 +581,18 @@ Bards will write a simple rhyme and think they've penned an epic for the ages.
 Alchemists will turn lead into copper and declare themselves equal to the gold-makers of legend.
 Shamans will hear a thunderclap and believe they've sung the song of the storm.
 Liches will see you cast clone and say, "He cannot afford a phylactery".
+Sorcerers will brew a love potion and believe themselves heartthrobs.
+Wizards will enchant a broom and think they've mastered flight.
+Warlocks will converse with a spirit and claim they've hosted a ghostly gala.
+Apprentices will summon a breeze and boast they can command the winds.
+Druids will talk to a tree and assume it's telling them ancient secrets.
+Mages will light a candle with a spell and deem themselves a beacon of enlightenment.
+Necromancers will raise a mouse and declare it the start of their undead army.
+Alchemists will turn lead into gold and believe they can solve the kingdom's economy.
+Apprentices will make a potion change color and think they've unlocked the mysteries of the universe.
+Wizards will read a few ancient tomes and claim they know all the world's lore.
+Enchanters will put a sparkle on a rock and sell it as a diamond of great power.
+Sorceresses will charm a snake and insist they've tamed the serpent of Eden.
+Bards will play a tune that calms a beast and believe they've soothed savage nature itself.
+Mages will cast a light spell and think they've created a new star.
+Conjurers will summon a rabbit from a hat and claim it's from another dimension.
