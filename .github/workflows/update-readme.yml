@@ -2,7 +2,7 @@ name: Update README with unique combinations
 
 on:
   workflow_run:
-    workflows: ["main"]
+    workflows: ["Update quotes.json"]
     types:
       - completed
   workflow_dispatch:
