@@ -2,9 +2,7 @@ name: Update README with unique combinations
 
 on:
   push:
-    paths:
-      - '/images/wizards/images.json'
-      - 'quotes.json'
+
   workflow_dispatch:
 
 
