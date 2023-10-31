@@ -4,7 +4,6 @@ on:
   push:
     paths-ignore:
       - '.github/**'
-      - 'quotes.txt'
   workflow_dispatch:
 
 
