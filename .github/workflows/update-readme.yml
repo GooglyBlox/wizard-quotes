@@ -2,7 +2,7 @@ name: Update README with unique combinations
 
 on:
   workflow_run:
-    workflows: ["main.yml"]
+    workflows: ["main"]
     types:
       - completed
   workflow_dispatch:
