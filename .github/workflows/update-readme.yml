@@ -45,3 +45,5 @@ jobs:
         git add README.md
         git commit -m "Update README with unique combinations count"
         git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.MY_PAT }}
