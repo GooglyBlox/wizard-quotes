@@ -1,11 +1,14 @@
 name: Update README with unique combinations
 
 on:
+  workflow_run:
+    workflows: ["main.yml"]
+    types:
+      - completed
   push:
     paths-ignore:
       - '.github/**'
   workflow_dispatch:
-
 
 jobs:
   update-readme:
